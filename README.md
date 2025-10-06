@@ -4,7 +4,6 @@
 
 This tool puts you in control, transforming your listening history into a personalized, "Wrapped-style" interactive dashboard—anytime you want it. Uncover your *real* top artists, most-played songs, and unique listening habits in just a few clicks. Your stats, at your fingertips.
 
-*(Replace this with a screenshot of your own final dashboard!)*
 
 ## ✨ Features
 
@@ -39,8 +38,8 @@ Getting started is easy. You'll need Python 3.8+ installed.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/youtube-music-wrapped.git
-    cd youtube-music-wrapped
+    git clone https://github.com/hrishiwastaken/YTMusicWrapped.git
+    cd YTMusicWrappe
     ```
 
 2.  **Create a virtual environment (highly recommended):**
